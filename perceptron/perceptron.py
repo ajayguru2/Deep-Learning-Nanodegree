@@ -13,9 +13,9 @@ class perceptron:
         result = np.matmul(x,self.weights)
         result = result + self.biased
         if result >= 0:
-            return True
+            return 1
         else:
-            return False
+            return 0
 
 if __name__ == '__main__':
     cell = perceptron()
