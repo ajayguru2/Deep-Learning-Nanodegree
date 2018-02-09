@@ -9,13 +9,11 @@ class perceptron:
         self.weights = w
     def setBias(self,b):
         self.biased = b
-    def runPerceptron(self,x):
-        result = np.matmul(x,self.weights)
-        result = result + self.biased
-        if result >= 0:
-            return 1
-        else:
-            return 0
+    def runPerceptron(self,x,w):
+        h = np.dot(x,w)
+        nn_output = sigmoid(h)
+
+
 
 if __name__ == '__main__':
     cell = perceptron()

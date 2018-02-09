@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c96d9c1d-419c-447f-8372-cc548c7dbe8a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tensorflow" afterPath="$PROJECT_DIR$/Tensorflow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gradient Descent/dummy.py" afterPath="$PROJECT_DIR$/Gradient Descent/dummy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gradient Descent/main.py" afterPath="$PROJECT_DIR$/Gradient Descent/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/perceptron/perceptron.py" afterPath="$PROJECT_DIR$/perceptron/perceptron.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,10 +23,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="perceptron.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/perceptron/perceptron.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gradient Descent/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="285">
               <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
               <folding />
             </state>
@@ -60,11 +68,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/perceptron/perceptron.py" />
         <option value="$PROJECT_DIR$/perceptron/cluster.py" />
         <option value="$PROJECT_DIR$/Cross Entropy/ce.py" />
         <option value="$PROJECT_DIR$/Gradient Descent/main.py" />
         <option value="$PROJECT_DIR$/Gradient Descent/dummy.py" />
+        <option value="$PROJECT_DIR$/perceptron/perceptron.py" />
       </list>
     </option>
   </component>
@@ -104,6 +112,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Alta-Doctrina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Alta-Doctrina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Alta-Doctrina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perceptron" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -490,14 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/perceptron/perceptron.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/perceptron/cluster.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -514,6 +528,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gradient Descent/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gradient Descent/dummy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -522,10 +544,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gradient Descent/main.py">
+    <entry file="file://$PROJECT_DIR$/perceptron/perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
