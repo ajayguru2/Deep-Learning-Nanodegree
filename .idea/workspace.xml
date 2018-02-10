@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c96d9c1d-419c-447f-8372-cc548c7dbe8a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tensorflow" afterPath="$PROJECT_DIR$/Tensorflow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project: Admission predictor/data-prep.py" afterPath="$PROJECT_DIR$/Project: Admission predictor/data-prep.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project: Admission predictor/binary.csv" afterPath="$PROJECT_DIR$/Project: Admission predictor/binary.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data-prep.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data-prep.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project: Admission predictor/data-prep.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -61,6 +61,16 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binary.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project: Admission predictor/binary.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,6 +96,7 @@
         <option value="$PROJECT_DIR$/Gradient Descent/dummy.py" />
         <option value="$PROJECT_DIR$/perceptron/perceptron.py" />
         <option value="$PROJECT_DIR$/Project: Admission predictor/data-prep.py" />
+        <option value="$PROJECT_DIR$/Project: Admission predictor/binary.csv" />
       </list>
     </option>
   </component>
@@ -578,6 +589,14 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project: Admission predictor/binary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
