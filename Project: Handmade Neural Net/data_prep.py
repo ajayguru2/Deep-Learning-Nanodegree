@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-admissions = pd.read('binary.csv')
+admissions = pd.read_csv('binary.csv')
 
 #making dummy variables for ranks
 
@@ -19,7 +19,7 @@ for field in ['gre', 'gpa']:
 #split 10% data for testing at random
 
 np.random.seed(21)
-sample = np.random.choice(data.index, size=int(len(data)*0.9), replace=False)
+sample = np.random.choice(data.index, size=int(len(data)*0.95), replace=False)
 data, test_data = data.ix[sample], data.drop(sample)
 
 #split into features and targets
