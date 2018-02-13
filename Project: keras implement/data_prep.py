@@ -1,7 +1,10 @@
 import numpy as np
 import pandas as pd
+from matplotlib import pyplot as plt
+
 
 admissions = pd.read_csv('binary.csv')
+
 
 #making dummy variables for ranks
 
