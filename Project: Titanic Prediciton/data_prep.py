@@ -1,13 +1,24 @@
 import pandas  as pd
-import re
+# import re
+import string
 
+class Del:
+  def __init__(self, keep=string.digits):
+    self.comp = dict((ord(c),c) for c in keep)
+  def __getitem__(self, k):
+    return self.comp.get(k)
+
+DD = Del()
 inputData = pd.read_csv('test.csv')
 
 def TicketTheekKrneWala():
     for index, row in data2.iterrows():
-        str(data2["Ticket"][index])
-        re.sub("\D","",data2["Ticket"][index])
-        # print(ticket)
+
+        # re.sub("\D","",ticket)
+
+        str(data2["Ticket"][index]).translate(DD)
+        print(data2["Ticket"])
+
 
 
 
@@ -25,8 +36,10 @@ data2 = pd.concat([data, pd.get_dummies(data['Embarked'], prefix='Embarked')], a
 
 data2 = data2.drop('Embarked',axis=1)
 
-data2.to_string(columns="Ticket")
+# data2.to_string(columns="Ticket")
 #ticket ko theek krna h !!
+
+
 TicketTheekKrneWala()
 
-print(data2)
+# print(data2)
