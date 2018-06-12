@@ -11,7 +11,8 @@ This repository holds all of my work which I did in my Udacity deep learning nan
 
 ### Projects
 
-Projects are an integral part of a nanodegree. That's what makes learning so interactive and fun. I have included the following projects in this repo
+Projects are an integral part of a nanodegree. That's what makes learning so interactive and fun. I have included the following projects in this repo.
+
 | Project Name | Availability |
 | ------ | ------ |
 | Handmade Neural Net | Available |
