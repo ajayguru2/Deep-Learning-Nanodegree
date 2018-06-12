@@ -15,11 +15,11 @@ Projects are an integral part of a nanodegree. That's what makes learning so int
 
 | Project Name | Availability |
 | ------ | ------ |
-| Handmade Neural Net | Available |
-| Dog Breed Classifier | Available |
-| Generating TV scripts | Available |
-| Generating Faces | Available |
-| Teaching a quadcopter to fly | Available |
+| Handmade Neural Net | [<img src="https://raw.githubusercontent.com/llGurudevll/Deep-Learning-Nanodegree/master/success.png">]() |
+| Dog Breed Classifier | [<img src="https://raw.githubusercontent.com/llGurudevll/Deep-Learning-Nanodegree/master/success.png">](https://github.com/llGurudevll/Deep-Learning-Nanodegree/tree/master/Project:%20Dog%20Breed%20Classifier) |
+| Generating TV scripts | [<img src="https://raw.githubusercontent.com/llGurudevll/Deep-Learning-Nanodegree/master/success.png">](https://github.com/llGurudevll/Deep-Learning-Nanodegree/tree/master/Project:%20Generating%20TV%20scripts) |
+| Generating Faces | [<img src="https://raw.githubusercontent.com/llGurudevll/Deep-Learning-Nanodegree/master/success.png">](https://github.com/llGurudevll/Deep-Learning-Nanodegree/tree/master/Project:%20Face%20Generation%20Using%20GANs) |
+| Teaching a quadcopter to fly | [<img src="https://raw.githubusercontent.com/llGurudevll/Deep-Learning-Nanodegree/master/success.png">](https://github.com/llGurudevll/Deep-Learning-Nanodegree/tree/master/Project:%20Automated%20Drone) |
 
 
 
